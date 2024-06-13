@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋Hello! Meu nome é Matheus.
 
-<!--
-**TheusMWP/TheusMWP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Bacharel** em Ciência da computação, apaixonado por tecnologia e pessoas. Já trabalhei com suporte ao cliente, atendimento ao cliente, setor administrativo e experiência em curso com Design UX e UI com prototipagem.
 
-Here are some ideas to get you started:
+- 🖥️ Atualmente focado em aprender:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div display = 'inline'>
+    <img width='50' high='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width='50' high='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width='50' high='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+          
+
+- 📫 How to reach me:
+<div display='inline'>
+<a href="https://www.instagram.com/theus__mwp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusgrhp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheuswesleyp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+          
