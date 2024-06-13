@@ -1,6 +1,6 @@
 # 👋Hello! Meu nome é Matheus.
 
-## **Bacharel** em Ciência da computação, apaixonado por tecnologia e pessoas. Já trabalhei com suporte ao cliente, atendimento ao cliente, setor administrativo e experiência em curso com Design UX e UI com prototipagem.
+## **Bacharel** em Ciência da computação, apaixonado por tecnologia e pessoas. Já trabalhei com suporte ao cliente, atendimento ao cliente, setor administrativo. E tenho experiência em Design UX e UI com prática em curso.
 
 - 🖥️ Atualmente focado em aprender:
 
@@ -10,6 +10,7 @@
     <img width='50' high='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
           
+
 
 - 📫 How to reach me:
 <div display='inline'>
